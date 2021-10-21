@@ -46,8 +46,6 @@ Initial Release. This release is dedicated for successful launch of KSLV-II "Nur
 - [Krypton](https://www.modrinth.com/mod/krypton)
 - [LazyDFU](https://www.modrinth.com/mod/lazydfu)
 - [Lithium](https://www.modrinth.com/mod/lithium)
-- [Sodium](https://www.modrinth.com/mod/sodium)
-- [Sodium Extra](https://www.modrinth.com/mod/sodium-extra)
 
 ### Visual Mods
 - [Continuity](https://www.modrinth.com/mod/continuity)
