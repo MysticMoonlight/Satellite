@@ -32,12 +32,12 @@ Initial Release. This release is dedicated for successful launch of KSLV-II "Nur
 - Fabric Version: 0.11.7
 
 ## List of mods ##
-# Core/API Mods
+### Core/API Mods
 - [Cloth API (Fabric)](https://www.curseforge.com/minecraft/mc-mods/cloth-api)
 - [Cloth Config API (Fabric)](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
 - [Fabric API](https://www.modrinth.com/mod/fabric-api)
 
-# Optimization Mods
+### Optimization Mods
 - [DashLoader](https://www.modrinth.com/mod/dashloader)
 - [Dynamic FPS](https://www.modrinth.com/mod/dynamic-fps)
 - [Enhanced Block Entities](https://www.modrinth.com/mod/ebe)
@@ -50,13 +50,13 @@ Initial Release. This release is dedicated for successful launch of KSLV-II "Nur
 - [Sodium](https://www.modrinth.com/mod/sodium)
 - [Sodium Extra](https://www.modrinth.com/mod/sodium-extra)
 
-# Visual Mods
+### Visual Mods
 - [Continuity](https://www.modrinth.com/mod/continuity)
 - [Fabrishot](https://www.modrinth.com/mod/fabrishot)
 - [Falling Leaves](https://www.modrinth.com/mod/fallingleaves)
 - [Iris Shaders](https://www.modrinth.com/mod/iris)
 
-# UI/Features Mods
+### UI/Features Mods
 - [Blur (Fabric)](https://www.modrinth.com/mod/blur-fabric)
 - [Better Mod Button](https://www.modrinth.com/mod/better-mod-button)
 - [BetterF3](https://www.modrinth.com/mod/betterf3)
