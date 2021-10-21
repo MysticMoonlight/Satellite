@@ -38,7 +38,6 @@ Initial Release. This release is dedicated for successful launch of KSLV-II "Nur
 - [Fabric API](https://www.modrinth.com/mod/fabric-api)
 
 ### Optimization Mods
-- [DashLoader](https://www.modrinth.com/mod/dashloader)
 - [Dynamic FPS](https://www.modrinth.com/mod/dynamic-fps)
 - [Enhanced Block Entities](https://www.modrinth.com/mod/ebe)
 - [FeritteCore](https://www.modrinth.com/mod/ferrite-core)
