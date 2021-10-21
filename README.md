@@ -52,19 +52,19 @@ Initial Release. This release is dedicated for successful launch of KSLV-II "Nur
 
 ### Visual Mods
 - [Continuity](https://www.modrinth.com/mod/continuity)
-- [Fabrishot](https://www.modrinth.com/mod/fabrishot)
 - [Falling Leaves](https://www.modrinth.com/mod/fallingleaves)
 - [Iris Shaders](https://www.modrinth.com/mod/iris)
 
 ### UI/Features Mods
 - [Blur (Fabric)](https://www.modrinth.com/mod/blur-fabric)
-- [Better Mod Button](https://www.modrinth.com/mod/better-mod-button)
 - [BetterF3](https://www.modrinth.com/mod/betterf3)
 - [Continue Button](https://www.modrinth.com/mod/continue-button)
 - [Drip Sounds (Fabric)](https://www.modrinth.com/mod/dripsounds-fabric)
 - [Extra Sounds](https://www.modrinth.com/mod/extrasounds)
+- [Fabrishot](https://www.modrinth.com/mod/fabrishot)
 - [Horse Stats Vanilla](https://www.modrinth.com/mod/horsestatsvanilla)
 - [HUDTweaks](https://www.modrinth.com/mod/hudtweaks)
+- [Mod Menu](https://www.modrinth.com/mod/modmenu)
 - [Ok Zoomer](https://www.modrinth.com/mod/ok-zoomer)
 - [Status Effect Timer](https://www.modrinth.com/mod/statuseffecttimer)
 - [Vistas](https://www.modrinth.com/mod/vistas)
