@@ -1,7 +1,7 @@
 
 
 <p align="center">
- <img width="20%" src="https://raw.githubusercontent.com/MysticMoonlight/Solaire/main/logo.png" align="center" alt="Solaire-IMG" />
+ <img width="20%" src="https://raw.githubusercontent.com/MysticMoonlight/Satellite/main/logo.png" align="center" alt="Solaire-IMG" />
  <h2 align="center">Satellite</h2>
   <p align="center">
      Satellite is Solaire's sister project which aims to improve Minecraft experience while keeping vanilla features.
