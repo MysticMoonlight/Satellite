@@ -1,4 +1,5 @@
-
+# Note
+Satellite modpack is now merged with EndlessMod, under new edition 'EndlessMod Universal'. You can find them [here](https://github.com/MysticMoonlight/EndlessMod).
 
 <p align="center">
  <img width="20%" src="https://raw.githubusercontent.com/MysticMoonlight/Satellite/main/logo.png" align="center" alt="Solaire-IMG" />
